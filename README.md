@@ -1,4 +1,4 @@
-# Hi 👋 I'm Raja Lingam
+# Hi 👋 I'm Rajalingam Suyambudurai
 
 <h3 align="center">
 Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Scalable Architecture Enthusiast
