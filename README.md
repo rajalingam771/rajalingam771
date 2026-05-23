@@ -1,13 +1,13 @@
 # Hi 👋 I'm Rajalingam Suyambudurai
 
 <h3 align="center">
-Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Scalable Architecture Enthusiast
+Lead Full Stack & React Native Engineer | AI Integration Specialist | AWS/GCP Cloud Architecture | Scalable SaaS & Mobile Applications
 </h3>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rajalingam-suyambudurai-887377122">
-<img src="https://img.shields.io/badge/LinkedIn-Rajalingam-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Rajalingam%20Suyambudurai-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:rajalingam771@gmail.com">
@@ -26,34 +26,11 @@ Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Sc
 
 # 🚀 About Me
 
-💼 Lead Full Stack Engineer with 7+ years of experience building scalable mobile and web applications.
+💼 Lead Full Stack Engineer with 7+ years of experience designing and developing scalable mobile, web, cloud, and AI-powered applications.
 
-📱 Specialized in:
-- React Native
-- React.js
-- Next.js
-- TypeScript
-- Node.js
-- Python
-- JAVA
-- AWS/GCP Cloud Infrastructure
+🚀 Specialized in enterprise-grade React Native applications, scalable SaaS platforms, cloud-native architectures, and AI integration solutions.
 
-🤖 Strong experience integrating:
-- Gemini AI
-- OpenAI APIs
-- AI Translation Services
-- OCR & Automation
-- AI Chat Systems
-- Smart Workflow Automation
-
-⚡ Experienced in:
-- Enterprise Application Development
-- SaaS Product Engineering
-- Microservice Architecture
-- CI/CD Pipelines
-- AWS Deployments
-- Performance Optimization
-- Technical Leadership & Mentoring
+🤖 Experienced in integrating LLMs, AI automation systems, real-time translation engines, OCR workflows, and intelligent mobile experiences using modern AI ecosystems.
 
 📍 Chennai, India
 
@@ -62,11 +39,13 @@ Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Sc
 # 🧠 Current Focus
 
 - 🚀 AI Powered Mobile Applications
-- ☁️ AWS Scalable Infrastructure
+- ☁️ AWS/GCP Scalable Infrastructure
 - 📱 Enterprise React Native Apps
 - 🤖 LLM & AI Automation Integration
 - 🏗 Clean Architecture & System Design
 - 🔥 Lead-Level Full Stack Engineering
+- ⚡ High Performance Scalable APIs
+- ☁️ Cloud-native SaaS Platforms
 
 ---
 
@@ -86,6 +65,7 @@ Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Sc
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -94,13 +74,16 @@ Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Sc
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
 ## ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge)
@@ -116,18 +99,20 @@ Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Sc
 
 ---
 
-# 🤖 AI & Automation Experience
+# 🤖 AI & Intelligent Automation Expertise
 
 ✅ Gemini AI Integration  
 ✅ OpenAI API Integration  
+✅ LLM Workflow Automation  
 ✅ AI Translation Systems  
-✅ Voice-to-Text Applications  
-✅ OCR Processing Systems  
-✅ AI Chat Applications  
+✅ OCR & Document Processing  
+✅ AI Chatbot Development  
 ✅ Prompt Engineering  
-✅ AI Workflow Automation  
-✅ Smart Mobile Assistants  
-✅ AI Powered SaaS Products  
+✅ Voice AI Applications  
+✅ AI Powered SaaS Platforms  
+✅ Intelligent Mobile Assistants  
+✅ Real-time AI Processing Systems  
+✅ AI-based Workflow Optimization  
 
 ---
 
@@ -135,18 +120,19 @@ Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Sc
 
 - Scalable System Design
 - Enterprise Mobile Architecture
-- Modular React Native Structure
-- Clean Architecture
-- Microservices
-- State Management
-- Secure Authentication
-- Offline-first Mobile Apps
-- Real-time Applications
-- Payment Gateway Integration
-- Push Notification Systems
+- AI-driven Application Architecture
+- Cloud-native Infrastructure
+- Microservices & Distributed Systems
+- Modular React Native Architecture
+- Clean Architecture Principles
+- High-performance APIs
+- Real-time Systems
+- Secure Authentication & Authorization
+- Offline-first Mobile Applications
+- CI/CD & DevOps Automation
 - Performance Optimization
-- Production Monitoring
-- API Security & Scalability
+- Production Monitoring & Logging
+- Scalable SaaS Engineering
 
 ---
 
@@ -220,15 +206,26 @@ Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Sc
 
 # 📈 Professional Highlights
 
-- ✅ 7+ Years Industry Experience
-- ✅ Production React Native Applications
-- ✅ Full Stack Architecture Expertise
-- ✅ AWS Cloud Deployment
-- ✅ AI Integration Expertise
-- ✅ Enterprise Application Development
-- ✅ SaaS Product Engineering
+- ✅ 7+ Years of Full Stack Engineering Experience
+- ✅ Enterprise React Native Application Development
+- ✅ AI Integration & Automation Expertise
+- ✅ Cloud-native AWS/GCP Infrastructure
+- ✅ Scalable SaaS Product Engineering
+- ✅ Production-grade API Architecture
+- ✅ Team Leadership & Mentoring
 - ✅ Mobile Performance Optimization
-- ✅ Scalable API Architecture
+- ✅ Real-time Application Development
+- ✅ End-to-End Product Architecture Experience
+
+---
+
+# 🚀 Open To
+
+- Lead Full Stack Engineer Roles
+- Senior React Native Opportunities
+- AI-powered Product Development
+- Cloud & Scalable Architecture Projects
+- Technical Leadership Opportunities
 
 ---
 
@@ -241,6 +238,9 @@ https://www.linkedin.com/in/rajalingam-suyambudurai-887377122
 
 🌐 Portfolio:
 https://rajalingam-suyambudurai.netlify.app/
+
+🐙 GitHub:
+https://github.com/rajalingam771
 
 ---
 
