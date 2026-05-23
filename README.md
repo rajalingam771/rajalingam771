@@ -7,7 +7,7 @@ Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Sc
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rajalingam-suyambudurai-887377122">
-<img src="https://img.shields.io/badge/LinkedIn-Raja%20Lingam-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Rajalingam-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:rajalingam771@gmail.com">
@@ -35,7 +35,8 @@ Lead React Native & Full Stack Engineer | AI Integration Specialist | Cloud & Sc
 - TypeScript
 - Node.js
 - Python
-- AWS Cloud Infrastructure
+- JAVA
+- AWS/GCP Cloud Infrastructure
 
 🤖 Strong experience integrating:
 - Gemini AI
